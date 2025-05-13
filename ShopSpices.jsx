@@ -1,6 +1,6 @@
 import React from 'react';
-import './AboutUs.css';
-const AboutUs = () => {
+import './ShopSpices.css';
+const ShopSpice = () => {
   return (
     <div className="about-container">
       <div className="image-container">
@@ -25,4 +25,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default ShopSpice;
